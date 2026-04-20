@@ -1,0 +1,1 @@
+module android-perf-tester\n\ngo 1.20
